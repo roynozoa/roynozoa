@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roynozoa or Muhammad Adisatriyo Pratama
-- 👀 I’m interested in the development of AI and Machine Learning for Data Security in cloud environment
+- 👀 I’m interested in the development of AI and Machine Learning in cloud environment
 - 🌱 I’m currently preparing for Tensorflow Developer Certificate and learning about Cloud Computing (AWS and GCP)
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me muhammad.adisatriyo@gmail.com
